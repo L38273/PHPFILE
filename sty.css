@@ -1,0 +1,389 @@
+
+
+    /* --- Reset and Colors --- */
+     :root {
+      --accent: #0078d7;
+      /* --muted: #555; */
+      --muted:white
+      --bg: #f9fafc;
+      --card: #fff;
+    } 
+     * { box-sizing: border-box; margin: 0; padding: 0; } */
+     body {
+      font-family: Arial, sans-serif;
+      background: var(--bg);
+      color: #111;
+      line-height: 1.6;
+    } 
+    a { text-decoration: none; color: inherit; }
+
+    /* Navbar code */
+.show {
+  display: flex;
+}
+
+
+.navbar {
+  width: 100%;
+  /* background: #fff; */
+  background: green;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+}
+
+.nav-container {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 20px;
+}
+
+.logo img {
+      width: 100px;
+    }
+
+/* Links */
+ .nav-links {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+}
+
+.nav-links a {
+  text-decoration: none;
+  font-size: 16px;
+  /* color: #000; */
+  color: white;
+  
+ 
+} 
+
+.btn {
+  background: #0a7cff;
+  padding: 8px 16px;
+  /* color: #fff !important; */
+/* color: red; */
+  border-radius: 5px;
+}
+.nav-links a:hover {
+  color: #00eaff;           /* Hover Light Blue */
+}
+
+/* Mobile */
+.hamburger {
+  display: none;
+  font-size: 30px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+
+
+/* MOBILE MENU */
+@media (max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
+
+  .nav-links {
+    position: absolute;
+    top: 70px;
+    right: -300px;
+    width: 200px;
+    background:green;
+    /* background: green; */
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    transition: .3s;
+  }
+
+  .nav-links.active {
+    right: 0;
+  }
+}
+
+     
+
+    /* --- Hero Section --- */
+    header.hero {
+      /* background: powderblue; */
+      background: #0d0d0d;
+      padding: 10px 10%;
+      text-align: center;
+      
+
+    }
+
+    /* header.hero-1{
+
+    } */
+    header.hero h1 {
+      font-size: 32px;
+      margin-bottom: 10px;
+      color: #ffffff;
+    }
+    header.hero p {
+      color: var(--muted);
+      margin-bottom: 20px;
+      color: #ffffff;
+    }
+    .hero-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .hero-buttons a,
+    .hero-buttons button {
+      background: #0078d7;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    .hero-buttons a:nth-child(2) {
+      background: orange;
+    }
+
+    /* --- Review Section --- */
+    .sticky-reviews-wrap {
+      padding: 60px 8%;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 40px;
+      background: #fff;
+    
+    }
+    .testimoninal-item {
+      max-width: 500px;
+    }
+    .heading-style-h3 {
+      font-size: 18px;
+      color: #0078d7;
+      margin-bottom: 10px;
+    }
+    .heading-style-h5 {
+      font-size: 26px;
+      margin-bottom: 20px;
+    }
+    .features-div {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+    .features-div img {
+      width: 22px;
+      height: 22px;
+    }
+    .link-cta {
+      color: #0078d7;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 12px;
+      font-weight: bold;
+    }
+    .home-section-image {
+      max-width: 450px;
+      border-radius: 10px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+    }
+    @media (max-width: 768px) {
+      .sticky-reviews-wrap {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .home-section-image {
+        width: 100%;
+      }
+    }
+  * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+    body {
+      /* background-color: #f4f7fa; */
+      color: #222;
+      background-color: #0d0d0d;
+    }
+
+  
+    .heading-style-h2--dark {
+      font-size: 36px;
+      font-weight: bold;
+      color: #fff;
+      margin-bottom: 10px;
+    }
+
+    .text-size-regular {
+      font-size: 16px;
+      line-height: 1.6;
+      color: #f1f1f1;
+      margin-bottom: 25px;
+    }
+
+  
+
+    .button {
+      background: #fff;
+      color: #0078d7;
+      font-weight: bold;
+      padding: 12px 22px;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: 0.3s;
+      border: none;
+    }
+
+    .button:hover {
+      background: #e3f2fd;
+    }
+
+    .button.is-secondary {
+      background: transparent;
+      color: white;
+      border: 2px solid white;
+    }
+
+    .button.is-secondary:hover {
+      background: rgba(255, 255, 255, 0.1);
+    }
+
+    .our-reviews-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  padding: 80px 8%;
+}
+
+/* Each Section (Sticky style block) */
+.sticky-reviews-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding: 60px 8%;
+  border-radius: 20px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+/* Different background colors for variation */
+.sticky-grey-1 { background: #f2f2f2; }
+.sticky-yellow-3 { background: #fff8e1; }
+.sticky-grey-4 { background: #f6f7f8; }
+
+/* Reverse layout alternate sections */
+.general-rewiev-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 50px;
+  width: 100%;
+}
+.general-rewiev-wrap.reverse {
+  flex-direction: row-reverse;
+}
+
+/* ======= Left (Text Content) ======= */
+.testimoninal-item {
+  flex: 1;
+  min-width: 300px;
+}
+
+.heading-style-h3 {
+  font-size: 22px;
+  color: #00695c;
+  margin-bottom: 12px;
+}
+
+.heading-style-h5 {
+  font-size: 28px;
+  font-weight: 600;
+  color: #111;
+  margin-bottom: 24px;
+}
+
+.text-size-regular--dark {
+  color: #444;
+  font-size: 16px;
+}
+
+/* ======= Feature list ======= */
+.features-div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 14px;
+  gap: 10px;
+}
+
+.icon-check {
+  width: 22px;
+  height: 22px;
+}
+
+/* ======= Buttons (Learn more) ======= */
+.link-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  background: #00796b;
+  color: #fff;
+  padding: 10px 22px;
+  border-radius: 8px;
+  font-weight: 500;
+  transition: 0.3s ease;
+ 
+}
+.link-cta:hover {
+  background: #004d40;
+  transform: translateY(-3px);
+}
+
+/* ======= Right (Image) ======= */
+.review-photo {
+  flex: 1;
+  min-width: 300px;
+  text-align: center;
+}
+.review-photo img {
+  max-width: 100%;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+  transition: transform 0.4s ease;
+}
+.review-photo img:hover {
+  transform: scale(1.03);
+}
+
+/* ======= Responsive ======= */
+@media (max-width: 768px) {
+  .general-rewiev-wrap,
+  .general-rewiev-wrap.reverse {
+    flex-direction: column;
+  }
+  .heading-style-h5 {
+    font-size: 22px;
+  }
+}
+
+   
+
+
+
+
+

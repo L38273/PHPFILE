@@ -1,0 +1,44 @@
+
+/* ===== Demo Section ===== */
+ .demo {
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.demo h1 {
+  color: #006b3c;
+  margin-bottom: 30px;
+}
+
+.demo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.demo-card {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s;
+}
+
+.demo-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px rgba(0, 107, 60, 0.25);
+} 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
