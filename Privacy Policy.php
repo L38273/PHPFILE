@@ -172,10 +172,10 @@ html, body {
       </div>
       <button class="hamburger" id="menuBtn" >☰</button>
       <div class="nav-links" id="navMenu">
-        <a href="inde.php#home">Home</a>
-        <a href="inde.php#Pricing">Pricing</a>
-        <a href="inde.php#about">About</a>
-        <a href="inde.php#contact">Contact</a>
+        <a href="index.php#home">Home</a>
+        <a href="Pricing.php#Pricing">Pricing</a>
+        <a href="index.php#about">About</a>
+        <a href="Contact.php#contact">Contact</a>
         <a href="page1.php#" class="btn">Book A Demo</a>
       </div>
     </div>

@@ -349,7 +349,7 @@
         <h4>Company</h4>
         <a href="index.php#home">Home</a>
         <a href="index.php#about">About</a>
-        <a href="index.php#Pricing">Pricing</a>
+        <a href="Pricing.php#Pricing">Pricing</a>
         <a href="Contact.php#contact">Contact</a>
       </div>
 
