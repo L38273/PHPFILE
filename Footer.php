@@ -275,24 +275,25 @@
     <div class="footer-links-box">
       <div class="footer-column">
         <h4>Company</h4>
-        <a href="inde.php#home">Home</a>
-        <a href="inde.php#about">About</a>
-        <a href="inde.php#Pricing">Pricing</a>
+        <a href="index.php#home">Home</a>
+        <a href="index.php#about">About</a>
+        <a href="index.php#Pricing">Pricing</a>
         <a href="Contact.php#contact">Contact</a>
       </div>
 
       <div class="footer-column">
         <h4>Resources</h4>
         <a href="Blog.php#">Blog</a>
-        <a href="page1.php"#>Book A Demo</a> 
+        <a href="page1.php"#>Book A Demo</a>
         <a href="Refund.php#">Refund/Cancellation Policy</a>
+        <a href="startfee.php#">Start For Free</a>
       </div>
 
  <div class="footer-column">
         <h4>Integrations</h4>
         <a href="ecard1.php#">WhatsApp</a>
-        <a href="eca.php#">Pmc</a> 
-        <a href="pms.php#">PMS</a> 
+        <a href="#eca.php#">Pmc</a>
+        <a href="#pms.php#">PMS</a>
         <a href="#">Channel manager</a>
       </div>
 
