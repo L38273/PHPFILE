@@ -173,6 +173,57 @@ header.hero {
 </div>
 <div class="padding-bottom xsmall"></div>
 <div class="header-top-content button-left">
+<h2 class="heading-style-h5">AI-Powered Hotel Communication<br></h2>
+                            <div class="features-div">
+                                <img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/6746b75b18df7367c4ab6fd1_icons8-check-96.png" loading="lazy" alt="circle tick icon" class="icon-check">
+                                <p class="text-size-regular--dark">Smarter chats. More revenue. Zero chaos.</p></div>
+                                <div class="features-div">
+                                    <img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/6746b75b18df7367c4ab6fd1_icons8-check-96.png" loading="lazy" alt="circle tick icon" class="icon-check">
+                                    <p class="text-size-regular--dark">Automates booking queries 24/7</p></div>
+                                    <div class="features-div">
+                                        <img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/6746b75b18df7367c4ab6fd1_icons8-check-96.png" loading="lazy" alt="circle tick icon" class="icon-check">
+                                        <p class="text-size-regular--dark">Centralizes guest communication &amp; requests</p></div>
+                                        <div class="padding-bottom padding-xxxsmall"></div>
+                                     <a data-w-id="2e8654dc-9df3-acef-4440-e966ead87e7e" href="guest-engagement-for-hospitality-1.php" class="link-cta w-inline-block"> 
+                                      <div class="text-l8">Learn more</div>                                   
+                                            <div style="opacity: 0; transform: translate3d(-5px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="arrow-tail-dot-4-l8-3"></div>
+                                            <div style="opacity: 0; transform: translate3d(-5px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="arrow-tail-dot-3-l8-3"></div>
+                                            <div style="opacity: 0; transform: translate3d(-5px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="arrow-tail-dot-2-l8-3"></div>
+                                            <div style="opacity: 0; transform: translate3d(-5px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="arrow-tail-dot-1-l8-3"></div>
+                                            <div style="transform: translate3d(-18px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="arrow-wrapper-l8-3">
+                                            <div class="arrow-tail-l8-3"></div>
+<img width="9" src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66f4220cd990f7eb1ce09bb2_icons8-right-arrow-48%20(2).png" alt="" class="arrow-head-l8-3">
+</div> 
+</a> 
+</div>
+</div>
+<div class="review-photo">
+  <img src="ChatGPT Image Jan 8, 2026, 01_46_59 PM.png" loading="lazy" style="width: 300px; height: auto;  alt="hotel guest engagement" class="home-section-image">
+ <!-- <img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66eaf981a0469ebd49134a14_Engage-01-min.webp" loading="lazy" sizes="(max-width: 2060px) 100vw, 2060px" srcset="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66eaf981a0469ebd49134a14_Engage-01-min-p-500.webp 500w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66eaf981a0469ebd49134a14_Engage-01-min-p-800.webp 800w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66eaf981a0469ebd49134a14_Engage-01-min-p-1080.webp 1080w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66eaf981a0469ebd49134a14_Engage-01-min-p-1600.webp 1600w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66eaf981a0469ebd49134a14_Engage-01-min.webp 2060w" alt="hotel guest engagement" class="home-section-image"> -->
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="sticky-reviews-wrap">
+<div class="general-rewiev-wrap">
+<div class="testimoninal-item">
+<div class="display-flex-space-between margin-top-20">
+<div class="main-person-wrap">
+<div class="rewiew-person-info">
+<h5 class="heading-style-h3">Engage</h5>
+</div>
+</div>
+</div>
+<div class="padding-bottom xsmall"></div>
+<div class="header-top-content button-left">
 <h2 class="heading-style-h5">Reach your guest at scale with easy-to-use guest messaging<br></h2>
                             <div class="features-div">
                                 <img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/6746b75b18df7367c4ab6fd1_icons8-check-96.png" loading="lazy" alt="circle tick icon" class="icon-check">
@@ -296,7 +347,7 @@ header.hero {
 <img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66cb17c9dde493cf813f2e7a_upsell-01-min.webp" loading="lazy" sizes="(max-width: 4240px) 100vw, 4240px" srcset="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66cb17c9dde493cf813f2e7a_upsell-01-min-p-500.webp 500w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66cb17c9dde493cf813f2e7a_upsell-01-min-p-800.webp 800w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66cb17c9dde493cf813f2e7a_upsell-01-min-p-1080.webp 1080w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66cb17c9dde493cf813f2e7a_upsell-01-min-p-1600.webp 1600w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66cb17c9dde493cf813f2e7a_upsell-01-min-p-2000.webp 2000w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66cb17c9dde493cf813f2e7a_upsell-01-min-p-2600.webp 2600w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66cb17c9dde493cf813f2e7a_upsell-01-min-p-3200.webp 3200w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66cb17c9dde493cf813f2e7a_upsell-01-min.webp 4240w" alt="hotel guest engagement" class="home-section-image"></div></div></div><div class="sticky-reviews-wrap sticky-grey-4">
 <div class="general-rewiev-wrap reverse">
     <div class="review-photo">
-<img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66eb01817c3c6eb589ac2e48_delight-1-min.webp" loading="lazy" sizes="(max-width: 798px) 100vw, 798px" srcset="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66eb01817c3c6eb589ac2e48_delight-1-min-p-500.webp 500w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66eb01817c3c6eb589ac2e48_delight-1-min.webp 798w" alt="hotel guest engagement" class="home-section-image">\
+<img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66eb01817c3c6eb589ac2e48_delight-1-min.webp"style="width: 300px; height: auto; loading="lazy" sizes="(max-width: 798px) 100vw, 798px" srcset="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66eb01817c3c6eb589ac2e48_delight-1-min-p-500.webp 500w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66eb01817c3c6eb589ac2e48_delight-1-min.webp 798w" alt="hotel guest engagement" class="home-section-image">\
 </div>
 <div class="testimoninal-item">
 <div class="display-flex-space-between margin-top-20">
@@ -360,20 +411,30 @@ header.hero {
 
       <div class="about-text">
         <br>
-
-        <!-- <p>Welcome to <strong>StayChat AI</strong>, your perfect destination for luxury and comfort. Located in the heart of Goa, we combine modern elegance with warm hospitality to make your stay unforgettable.</p>
-
-        <p>Founded in 2015, StayChat AI has become a favorite for travelers who value style and comfort. Whether you're here for business or leisure, our team is dedicated to providing exceptional service.</p> -->
-
-        <!-- <h3>Our Facilities</h3>
-        <ul>
-          <li>Free High-Speed Wi-Fi</li>
-          <li>Swimming Pool & Spa</li>
-          <li>Restaurant & Bar</li>
-          <li>Gym & Fitness Center</li>
-          <li>Conference Room</li>
-          <li>Airport Pickup & Drop</li>
-        </ul> -->
+            <h3> What StayChat Is & Why it Matters</h3>
+<p>StayChat is a communication platform built for hotels that centralizes guest conversations, automates routine tasks, and connects messaging channels directly to your property systems. Rather than juggling multiple apps, phone calls and OTAs, hotel teams use StayChat to manage bookings, requests, payments and guest updates from one place — designed to increase direct revenue, save staff time, and improve guest satisfaction.
+</p>
+<h3>Why hotels choose StayChat</h3>
+<ul>
+  <li>Reduce reliance on OTAs: Convert more enquiries into direct bookings (lower commission costs).</li>
+  <li>Faster response, better service: Automated replies, message routing and templates keep guests engaged and satisfied.</li>
+  <li>Unified view: Chat from WhatsApp, SMS, web chat and phone logs appear in a single, searchable inbox.</li>
+</ul>
+<h3>How StayChat Works & Key Features</h3>
+<p>StayChat connects your existing systems and guest touchpoints into a simple workflow so your team can focus on hospitality rather than chasing messages.</p>
+       <strong>How it works (simple flow)</strong>
+       <p>1.	Connect channels: Link WhatsApp, web chat, SMS and other messaging channels.<br>
+	2.	Integrate with your PMS: Sync reservations, room status and guest profiles so messages are context-aware.<br>3.	Automate & route: Use templates, auto-replies, and rules to answer FAQs, confirm bookings, handle payments, and escalate requests to staff.
+	<br>4.	Manage & measure: Assign conversations, track SLAs, and use analytics to spot revenue opportunities and service gaps.
+ </p>
+<h3>Key features at a glance</h3>
+<ul>
+  <li>Multi-channel inbox: One dashboard for WhatsApp, web chat, SMS and more.</li>
+  <li>PMS integration: Read/write access to bookings and guest data for contextual messaging.</li>
+  <li>Automations & templates: Quick replies, booking confirmations, pre-arrival messages and payment links.</li>
+  <li>Booking conversion tools: Quoting, availability checks and one-click payment links to capture direct bookings.</li>
+</ul>
+        
       </div>
 
       <div class="about-image">
@@ -381,9 +442,6 @@ header.hero {
       </div>
     </div>
   </section>
- <?php 
- #include"fot3.php";
- ?>
 <div class="main">
 <div class="section-home-7 fullscreen">
   <div class="cta-card-large-v">

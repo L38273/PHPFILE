@@ -19,8 +19,8 @@ include"navbar.php";
       --shadow: 0 8px 24px rgba(16,24,40,0.08);
       --radius: 12px;
       --padding: 18px;
-      font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto;
-      gap: 20px;
+      /* font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto;
+      gap: 20px; */
     }
 
     body{
@@ -28,6 +28,7 @@ include"navbar.php";
       background:#f3f4f6;
       /* padding:30px; */
       gap: 10px;
+      font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto;
       
     }
 
@@ -137,10 +138,10 @@ include"navbar.php";
     </style>
 </head>
 <!-- <body style="background-color: #0d0d0d"> -->
-<body background-color:#6B5B95>
-<div class="card111">
+<body style="background-color:#6B5B95">
+<!-- <div class="card111">
     <div class="card12"></div>
-</div>
+</div> -->
 <div class="container-1">
 
   <!-- CARD 1 -->
@@ -265,7 +266,7 @@ include"navbar.php";
 </svg>
   </div>
   <h3 class="title">Line</h3>
-  <p cs="desc">Join our Line channel for updates</p>
+  <p class="desc">Join our Line channel for updates</p>
   <div class="actions">
     <!-- <button class="btn" onclick="onViewMore()">View more</button> -->
      <a href="ecard9.php#" class="btn-11">View more</a>

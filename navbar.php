@@ -107,7 +107,7 @@
     top: 70px;
     right: -300px;
     width: 200px;
-    background:green;
+    background:#8E7CC3;
     /* background: green; */
     flex-direction: column;
     gap: 20px;
@@ -128,7 +128,9 @@
  <nav class="navbar">
     <div class="nav-container">
       <div class="logo">
+        <a href="index.php#"  >
         <img src="main4.png"  alt="StayChat" style="width: 150px; filter: brightness(5.3);" >
+        </a>
             <!-- <img src="StayChat Logo on Green Background.avif"  alt="StayChat"> -->
       </div>
       <button class="hamburger" id="menuBtn" >☰</button>

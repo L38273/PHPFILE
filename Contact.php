@@ -202,7 +202,7 @@ include"navbar.php";
           <div class="icon">🏢</div>
           <div>
             <h4>Visit Us</h4>
-            <p>Second Floor </p>
+            <p>5th Floor AIC BULIDING BHU VARANASI UTTAR PRADESH </p>
           </div>
         </div>
 

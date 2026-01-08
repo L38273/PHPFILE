@@ -276,7 +276,9 @@
 <nav class="navbar">
     <div class="nav-container">
       <div class="logo">
+        <a href="index.php#" target="_blank">
         <img src="main4.png"  alt="StayChat" style="width: 150px;filter: brightness(5.3)"> 
+        </a>
       </div>
       <button class="hamburger" id="menuBtn" >☰</button>
       <div class="nav-links" id="navMenu">

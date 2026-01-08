@@ -311,12 +311,15 @@
   <img src="main2.png" alt="instagram">
 </a> -->
 
+ <a href="index.php#">
+        <img src="main4.png"  alt="StayChat" style="width: 150px;filter: brightness(5.3)"> 
+        </a>
+
   <a href="https://wa.me/+919616422222" target="_blank" class="wa-icon">
   <img src="https://img.icons8.com/?size=100&id=964RahB4l606&format=png&color=000000" alt="WhatsApp">
 </a>
 
 <a href="https://www.linkedin.com/company/staychat-ai/" target="_blank" class="wa-icon">
-  <!-- <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" alt="facebook"> -->
    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="linkedin">
 </a>
 

@@ -141,8 +141,9 @@ a:hover {
    <nav class="navbar">
     <div class="nav-container">
       <div class="logo">
-        
+        <a href="index.php#">
           <img src="main4.png"  alt="StayChat" style="width: 150px;filter: brightness(5.3);"> 
+          </a>
         </div>
       <button class="hamburger" id="menuBtn">☰</button>
       <div class="nav-links" id="navMenu">
@@ -162,36 +163,62 @@ a:hover {
   <div class="privacy-policy-left-content">
   <h1 class="heading-h3">Terms of Service</h1>
   <p class="text-regular opacity-80">Last updated: 20/11/2025</p>
-  <p class="privacy-policy-details w-richtext">Welcome to StayChat Private Limited (“StayChat”, “we”, “our”, “us”). By accessing or using our website, app, or services, you agree to the following Terms & Conditions.
+  <p class="privacy-policy-details w-richtext">Welcome to StayChat Private Limited (“StayChat”, “we”, “our”, or “us”).
+By using our website, applications, or services (“Services”), you agree to these Terms.
 </p>
   </div>
   </div>
   <div class="padding-bottom padding-medium">
   </div>
   <div class="privacy-policy-details w-richtext">
-  <h5>1. Use of Services</h5>
-  <p>1.1.You agree to use StayChat services only for lawful business purposes.<br>1.2.You are responsible for maintaining the confidentiality of your account and all activities under it.;</p>
-    <h5>2. Service Accuracy</h5>
-    <p>2.1.We work to ensure accurate and reliable automation, but we do not guarantee error-free performance.<br>2.2.StayChat is not responsible for losses caused by user input errors, misuse, or third-party failures (WhatsApp API, PMS integrations, hosting providers, etc.).</p>
-
-  <h5>3. Payments & Subscriptions</h5>
-  <p>3.1.For paid plans, fees must be paid as per the pricing displayed or communicated.<br>3.2.Non-payment may result in suspension of services.</p>
-  <h5>4. Intellectual Property</h5>
-  <p>4.1.All logos, code, content, and branding belong to StayChat Private Limited.<br>4.2.You may not copy, modify, or resell our technology without written permission.</p>
-  <h5>5. User Content</h5>
-  <p>5.1.By using our services, you grant us permission to process your messages and data solely for automation, support, and improvement.<br>5.2.You are responsible for ensuring your content is legal and does not violate the rights of others.</p>
-  <h5>6. Third-Party Integrations</h5>
-  <p>6.1.StayChat may integrate with WhatsApp, PMS systems, CRMs, and other tools.<br>6.2.We are not responsible for downtime or issues caused by third-party platforms.</p>
-  <h5>7. Limitation of Liability</h5>
-  <p>7.1.StayChat is not liable for Business losses Data loss not caused by our negligence Third-party service interruptions Misuse of the platform by users Our total liability is limited to the amount you paid us in the past 3 months.</p>
-  <h5>8. Termination</h5>
-  <p>8.1. We may suspend or terminate accounts that violate these Terms or misuse the platform.<br>8.2.You may request account deletion anytime.</p>
-  <h5>9. Governing Law</h5>
-<p>9.1.These Terms are governed by the laws of India.<br>9.2.Any disputes will be resolved in Varanasi, Uttar Pradesh.</p>  
-<h5>10. Contact Us</h5>
-<p>For questions or support, contact:
-<br>📩 support@staychat.in </p> 
-  
+  <h5>1. What StayChat Does</h5>
+  <p>StayChat provides communication automation and messaging tools for hospitality businesses, including integrations with WhatsApp and Property Management Systems (PMS).<br>We help hotels manage guest conversations, bookings, and operations more efficiently.</p>
+    <h5>2. Acceptable Use</h5>
+<p>You agree to:<br>•	Use StayChat only for lawful business purposes<br>
+	•	Comply with all applicable laws and regulations<br>
+	•	Follow WhatsApp / Meta platform policies when using WhatsApp integrations</p>
+  <p>You are responsible for all activity under your account and for keeping your login credentials secure.</p>
+  <h5>3.Service Availability & Accuracy</h5>
+  <p>We aim to provide reliable, high-quality service, but:<br>
+	•	We do not guarantee uninterrupted or error-free operation<br>
+	•	Automation outcomes may vary based on user inputs and third-party systems</p>
+  <strong>StayChat is not responsible for issues caused by:</strong>
+  <p>
+    •	Incorrect data or configurations<br>
+	•	Misuse of the platform<br>
+	•	Third-party services (WhatsApp APIs, PMS providers, hosting services, telecom networks)
+  </p>
+  <h5>4.Payments & Subscriptions</h5>
+  <p>•	Paid plans are billed according to the pricing shared at signup<br>
+	•	Failure to pay may result in suspension or termination of services<br>
+	•	Fees are non-refundable unless explicitly stated otherwise</p>
+  <h5>5.Data, Privacy & GDPR</h5>
+<p>Your privacy matters to us.<br>
+	•	We process customer and guest data only to provide and improve our Services<br>
+	•	We act as a data processor, and you remain the data controller for guest data<br>
+	•	Our data handling practices comply with applicable data protection laws, including GDPR, where applicable</p>
+  <h5>6.WhatsApp & Third-Party Platforms </h5>
+<p>•	StayChat uses official WhatsApp Business APIs<br>
+	•	Your use of WhatsApp through StayChat must comply with Meta / WhatsApp policies<br>
+	•	We are not responsible for account restrictions, suspensions, or outages caused by WhatsApp or other third-party platforms</p> 
+ <h5>7. Intellectual Property</h5>
+ <p>All software, code, designs, trademarks, and branding belong exclusively to StayChat Private Limited.<br>
+You may not copy, resell, reverse-engineer, or misuse our technology without written permission.</p>
+  <h5>8. Limitation of Liability</h5>
+  <p>To the maximum extent permitted by law:<br>•	StayChat is not liable for indirect, incidental, or consequential losses
+	•	We are not responsible for business loss, revenue loss, or data loss not caused by our direct negligence<br>
+Our total liability is limited to the amount you paid us in the three (3) months prior to the claim.</p>
+  <h5>9. Account Termination</h5>
+  <p>•	We may suspend or terminate accounts that violate these Terms or applicable laws<br>
+	•	You may request account deletion at any time, subject to legal and compliance obligations</p>
+<h5>10. Governing Law</h5>
+<p>These Terms are governed by the laws of India.<br>
+Any disputes shall be resolved exclusively in Varanasi, Uttar Pradesh, India.
+ </p> 
+ <h5>11. Contact</h5>
+  <p>
+For questions or support:<br>
+📩 support@staychat.in</p>
 </div>
 </div></div></div>
 <script>
