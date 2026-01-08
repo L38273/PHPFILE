@@ -71,14 +71,17 @@ html, body {
     color: #444;
     margin: 10px 0;
 }
-
+.navbar {
+ 
+   background: #8E7CC3;
+}
     </style>
 </head>
-<body style="background-color: #0d0d0d">
+  <body background-color:#6B5B95>
      <nav class="navbar">
     <div class="nav-container">
       <div class="logo">
-        <img src="main3.png"  alt="StayChat" style="width: 150px"> 
+        <img src="main4.png"  alt="StayChat" style="width: 150px;filter: brightness(5.3)"> 
       </div>
       <button class="hamburger" id="menuBtn" >☰</button>
       <div class="nav-links" id="navMenu">

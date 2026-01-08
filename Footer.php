@@ -8,13 +8,13 @@
   <style>
     /* ================= FOOTER ================= */
 .footer {
-  background: #0d0d0d;
+  background: #6B5B95;
   color: #ccc;
   padding: 40px 20px;
   margin-top: 40px;
 }
 .footer-1 {
-    background: #0d0d0d;
+    background: #6B5B95;
 }
 
 .footer-container {
@@ -49,13 +49,13 @@
 }
 
 .footer-column h4 {
-  color: #fff;
+  color: #0d0d0d;
   margin-bottom: 12px;
 }
 
 .footer-column a {
   display: block;
-  color: #00c4ff;
+  color: #ffffff;
   text-decoration: none;
   margin-bottom: 8px;
   transition: 0.3s ease;
@@ -90,20 +90,19 @@
 
  .section-1 {
     padding: 50px 0;
-    background: #0d0d0d;
+    background: #6B5B95;
     background-size: 50cm;
-    
     display: flex;
-    flex-direction: column;  
+    flex-direction: column;
     justify-content: center;
-    align-items: center;     
+    align-items: center;
     width: 100%;
 } 
 
 .section-2 {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    gap: 12px;                
+    gap: 12px;
     justify-items: center;
     align-items: center;
 }
@@ -238,7 +237,7 @@
 
   </style>
 </head>
-<body style="background-color: #0d0d0d">
+<body style="background-color: #6B5B95">
   <div class="footer-1">
    <div class="section-1">
           <h1>Your hospitality tech stack’s best friend</h1>
@@ -292,7 +291,7 @@
  <div class="footer-column">
         <h4>Integrations</h4>
         <a href="ecard1.php#">WhatsApp</a>
-        <a href="#eca.php#">Pmc</a>
+        <a href="ecard3.php#">Paytm</a>
         <a href="#pms.php#">PMS</a>
         <a href="#">Channel manager</a>
       </div>
@@ -308,9 +307,9 @@
 
 <div class="footer-bottom">
 
-<a href="inde.php#" target="_blank" class="wa-icon-1">
+<!-- <a href="inde.php#" target="_blank" class="wa-icon-1">
   <img src="main2.png" alt="instagram">
-</a>
+</a> -->
 
   <a href="https://wa.me/+919616422222" target="_blank" class="wa-icon">
   <img src="https://img.icons8.com/?size=100&id=964RahB4l606&format=png&color=000000" alt="WhatsApp">

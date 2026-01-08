@@ -60,7 +60,7 @@ p {
 
     </style>
 </head>
-<body style="background-color: #0d0d0d">
+<body style="background-color: #6B5B95">
     <div class="section-container">
 
     <h1>Staychat AI Refund/Cancellation Policy</h1>

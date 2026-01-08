@@ -10,7 +10,7 @@ include "navbar.php";
 <style>
     body {
         font-family: Arial;
-        background: #f4f8ff;
+        background: #6B5B95;
         margin:0;
         /* padding-top: 9990px; */
         /* padding-bottom: 40px; */
@@ -86,7 +86,7 @@ h1 {
 </style>
 </head>
 
-<body background-color: #0d0d0d>
+<body style="background-color: #6B5B95">
 
 
 <div class="page2-wrapper-1">

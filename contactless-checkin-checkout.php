@@ -8,10 +8,7 @@
    <style>
 .navbar {
   position: fixed;       
-  /* top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 9999; */
+  background: #8E7CC3;
 
 }
 
@@ -33,7 +30,7 @@
   padding: 80px 0;
   /* background: #fff; */
   font-family: Arial, sans-serif;
-  background-color: #0d0d0d;
+  background-color: #6B5B95;
 }
 
 /* Container */
@@ -140,7 +137,7 @@
 }
     /* ================= FOOTER ================= */
 .footer {
-  background: #111;
+  background: #6B5B95;
   color: #ccc;
   padding: 40px 20px;
   margin-top: 40px;
@@ -178,13 +175,13 @@
 }
 
 .footer-column h4 {
-  color: #fff;
+  color: #0d0d0d;
   margin-bottom: 12px;
 }
 
 .footer-column a {
   display: block;
-  color: #00c4ff;
+  color: #ffffff;
   text-decoration: none;
   margin-bottom: 8px;
   transition: 0.3s ease;
@@ -232,18 +229,18 @@
 }
    </style>
 </head>
-<body style="background-color: #0d0d0d">
-
+<!-- <body style="background-color: #0d0d0d"> -->
+<body style=" background-color:#6B5B95">
  <nav class="navbar">
     <div class="nav-container">
       <div class="logo">
-       <img src="main3.png"  alt="StayChat" style="width: 150px" > 
+       <img src="main4.png"  alt="StayChat" style="width: 150px;filter: brightness(5.3);" > 
       </div>
       <button class="hamburger" id="menuBtn" >☰</button>
       <div class="nav-links" id="navMenu">
-        <a href="inde.php#home">Home</a>
-        <a href="inde.php#Pricing">Pricing</a>
-        <a href="inde.php#about">About</a>
+        <a href="index.php#home">Home</a>
+        <a href="pricing.php#Pricing">Pricing</a>
+        <a href="index.php#about">About</a>
         <a href="Contact.php#contact">Contact</a>
         <a href="page1.php#Demo" class="btn">Book A Demo</a>
       </div>
@@ -255,8 +252,9 @@
     <div class="container-large">
       <div data-w-id="3a31df64-7d7f-6161-62a5-b2584da92727" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="all-feature-content">
         <div class="all-feature-headline">
-          <img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66010485d3e18f518b4e995b_Vector.svg" loading="lazy" alt="vector icon" class="headline-icon">
-        <div class="text-size-tiny text-color-black-dark">Our Feature</div></div>
+          <!-- <img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66010485d3e18f518b4e995b_Vector.svg" loading="lazy" alt="vector icon" class="headline-icon"> -->
+        <br><br><br>
+          <div class="text-size-tiny text-color-black-dark">Our Feature</div></div>
         <h2 class="heading-style-h2">Mobile Check-In &amp;&nbsp;Checkout your guests &amp; staff love<br></h2>
         <p class="text-size-medium">Elevate your guest experience with StayChat AI Mobile Check-In. With StayChat AI, guests check in at their convenience using their own mobile device. No apps or hardware required. It’s smooth for them, &amp; seamless for you.<br></p>
         <div class="padding-bottom padding-medium"></div></div>
@@ -305,19 +303,18 @@
                           <div class="padding-bottom padding-xxsmall"></div>
                           <p class="text-size-regular text-color-black-dark">Fraudulent bookings and chargebacks can hurt your bottom line. StayChat AI hotel check-in software integrates AI-powered fraud detection, helping you flag suspicious bookings, verify guests securely, and reduce chargebacks<!-- -->. Protect your business while ensuring a seamless check-in process for legitimate guests.</p></div></div>
                           <div id="w-node-_50974764-f835-10eb-27ce-52c7f471640f-8243271e" class="service-right-side-content">
-                            <img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7d628dbd52aa948ef19c_fraud-67bc7753d1145.webp" loading="eager" sizes="(max-width: 1919px) 100vw, 1661.988525390625px" srcset="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7d628dbd52aa948ef19c_fraud-67bc7753d1145-p-500.webp 500w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7d628dbd52aa948ef19c_fraud-67bc7753d1145-p-800.webp 800w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7d628dbd52aa948ef19c_fraud-67bc7753d1145-p-1080.webp 1080w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7d628dbd52aa948ef19c_fraud-67bc7753d1145-p-1600.webp 1600w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7d628dbd52aa948ef19c_fraud-67bc7753d1145.webp 1662w" alt="hotel online check-in" class="service-section-image-pink"></div></div></div><div data-w-id="d3d52dc4-4634-0e10-b030-845a708dcc6c" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="service-section-lime shadow-medium"><div class="w-layout-grid service-section-grid"><div id="w-node-d3d52dc4-4634-0e10-b030-845a708dcc6e-8243271e" class="service-left-side-content"><div class="header-top-content button-left"><h2 class="heading-style-h4">No app download required<br></h2><div class="padding-bottom padding-xxsmall"></div><p class="text-size-regular text-color-black-dark">Unlike traditional check-in solutions that require guests to download an app, Guestara offers a web-based guest app for ultimate convenience. Guests can complete their mobile check-in process from any device with just a few taps no extra steps, no unnecessary downloads, just a frictionless experience.</p></div></div><div id="w-node-d3d52dc4-4634-0e10-b030-845a708dcc76-8243271e" class="service-right-side-content"><img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7e7eef861614c416fc1d_no-app-download-67bc775471524.webp" loading="eager" sizes="(max-width: 1919px) 100vw, 1661.988525390625px" srcset="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7e7eef861614c416fc1d_no-app-download-67bc775471524-p-500.webp 500w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7e7eef861614c416fc1d_no-app-download-67bc775471524-p-800.webp 800w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7e7eef861614c416fc1d_no-app-download-67bc775471524-p-1080.webp 1080w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7e7eef861614c416fc1d_no-app-download-67bc775471524-p-1600.webp 1600w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7e7eef861614c416fc1d_no-app-download-67bc775471524.webp 1662w" alt="paper less check-in" class="service-section-image-lime"></div></div></div></div></div></div>
-
-
-<!-- <script>
-    // --- Mobile Menu Toggle ---
-    const menuBtn = document.getElementById('menuBtn');
-    const navMenu = document.getElementById('navMenu');
-    menuBtn.addEventListener('click', () => {
-      navMenu.classList.toggle('open');
-    });
-  </script>  -->
- 
-
+                            <img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7d628dbd52aa948ef19c_fraud-67bc7753d1145.webp" loading="eager" sizes="(max-width: 1919px) 100vw, 1661.988525390625px" srcset="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7d628dbd52aa948ef19c_fraud-67bc7753d1145-p-500.webp 500w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7d628dbd52aa948ef19c_fraud-67bc7753d1145-p-800.webp 800w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7d628dbd52aa948ef19c_fraud-67bc7753d1145-p-1080.webp 1080w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7d628dbd52aa948ef19c_fraud-67bc7753d1145-p-1600.webp 1600w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7d628dbd52aa948ef19c_fraud-67bc7753d1145.webp 1662w" alt="hotel online check-in" class="service-section-image-pink"></div></div></div><div data-w-id="d3d52dc4-4634-0e10-b030-845a708dcc6c" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="service-section-lime shadow-medium">
+                              <div class="w-layout-grid service-section-grid">
+                                <div id="w-node-d3d52dc4-4634-0e10-b030-845a708dcc6e-8243271e" class="service-left-side-content">
+                                  <div class="header-top-content button-left">
+                                    <h2 class="heading-style-h4">No app download required<br></h2>
+                                    <div class="padding-bottom padding-xxsmall"></div>
+                                    <p class="text-size-regular text-color-black-dark">Unlike traditional check-in solutions that require guests to download an app, Guestara offers a web-based guest app for ultimate convenience. Guests can complete their mobile check-in process from any device with just a few taps no extra steps, no unnecessary downloads, just a frictionless experience.</p>
+                          </div>
+                        </div>
+                        <div id="w-node-d3d52dc4-4634-0e10-b030-845a708dcc76-8243271e" class="service-right-side-content">
+                          <img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7e7eef861614c416fc1d_no-app-download-67bc775471524.webp" loading="eager" sizes="(max-width: 1919px) 100vw, 1661.988525390625px" srcset="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7e7eef861614c416fc1d_no-app-download-67bc775471524-p-500.webp 500w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7e7eef861614c416fc1d_no-app-download-67bc775471524-p-800.webp 800w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7e7eef861614c416fc1d_no-app-download-67bc775471524-p-1080.webp 1080w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7e7eef861614c416fc1d_no-app-download-67bc775471524-p-1600.webp 1600w, https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/67bc7e7eef861614c416fc1d_no-app-download-67bc775471524.webp 1662w" alt="paper less check-in" class="service-section-image-lime">
+                        </div></div></div></div></div></div>
 <script>
   const menuBtn = document.getElementById("menuBtn");
   const navMenu = document.getElementById("navMenu");
@@ -334,7 +331,6 @@
     }
   });
 </script>
-
 
  <footer class="footer">
   <div class="footer-container">
@@ -367,7 +363,7 @@
         <h4>Integrations</h4>
         <a href="ecard1.php#">WhatsApp</a>
         <a href="#eca.php#">Pmc</a>
-        <a href="#pms.php#">PMS</a>
+        <!-- <a href="#pms.php#">PMS</a> -->
         <a href="#">Channel manager</a>
       </div>
 

@@ -37,10 +37,7 @@
 
 
 .navbar {
-  /* width: 100%; */
-  /* background: #fff; */
-  background: green;
-  /* box-shadow: 0 3px 8px rgba(0,0,0,0.1); */
+  background: #8E7CC3;
   position: sticky;
   top: 0;
   z-index: 9999;
@@ -126,11 +123,12 @@
 
     </style>
 </head>
-<body style="background-color: #0d0d0d">
+<!-- <body style="background-color: #0d0d0d"> -->
+  <body style="background-color: #6B5B95">
  <nav class="navbar">
     <div class="nav-container">
       <div class="logo">
-        <img src="main3.png"  alt="StayChat" style="width: 150px">
+        <img src="main4.png"  alt="StayChat" style="width: 150px; filter: brightness(5.3);" >
             <!-- <img src="StayChat Logo on Green Background.avif"  alt="StayChat"> -->
       </div>
       <button class="hamburger" id="menuBtn" >☰</button>

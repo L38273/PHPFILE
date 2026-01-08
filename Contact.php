@@ -17,7 +17,7 @@ include"navbar.php";
     }
 
     body {
-      background: #f6f7fb;
+      background: #6B5B95;
       /* padding: 40px 20px; */
     }
 

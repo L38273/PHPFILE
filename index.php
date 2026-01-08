@@ -67,10 +67,10 @@
         .spclflight {
     width: 100%;
    
-    background: #0d0d0d;
+    background: #6B5B95;
     padding: 10px 0;
     overflow: hidden;
-    /* background-color: #0d0d0d; */
+    
 }
 
 .spclflight ul {
@@ -90,21 +90,25 @@
 marquee {
     padding: 10px 10%;
     /* background: #ffffff;     */
-    border-top: 1px solid #0d0d0d;
-    border-bottom: 1px solid #0d0d0d;
+    border-top: 1px solid#6B5B95;
+    border-bottom: 1px solid #6B5B95;
     scrollamount: 7;        
-  background: #0d0d0d;
+  /* background: #0d0d0d; */
+  background: #6B5B95;
 }
 .space {
-  height: 50px;         
-  width: 100%;         
-  background-color: #0d0d0d; 
+  height: 50px;
+  width: 100%;
+  background-color: #6B5B95; 
+}
+header.hero {
+      
+        background-color:#6B5B95;
 }
 .navbar {
   width: 100%;
-  background: green;
+   background: #8E7CC3 ;
   box-shadow: 0 3px 8px rgba(0,0,0,0.1);
-
   position: fixed;
   top: 0;
   left: 0;
@@ -114,12 +118,13 @@ marquee {
     </style>
 </head>
 
-<body style="background-color: #0d0d0d">
+<!-- <body style="background-color: #0d0d0d"> -->
+   <body background-color:#6B5B95>
   <!-- Navbar -->
    <nav class="navbar">
     <div class="nav-container">
       <div class="logo">
-         <img src="main3.png"  alt="StayChat" style="width: 150px ; filter: brightness(0) invert(1);" > 
+         <img src="main4.png"  alt="StayChat" style="width: 150px ; filter: brightness(5.3);" > 
       <?php
       //  include"fot2.php";
        ?>
@@ -145,7 +150,7 @@ marquee {
     <br>
     <!-- <h1>Reimagine Guest Management</h1> -->
      <h1>Automate your hotel to connect with anyone anywhere anytime</h1>
-     <p> Helps hotels manage guest communication across WhatsApp and other Channels-turning inquiries into bookings and re with AI-powered automation </p>
+     <p> Helps hotels manage guest communication across WhatsApp and other Channels-turning inquiries into bookings and revenue with AI-powered automation </p>
     <!-- <p>AI-powered guest communication & hotel management made simple.</p> -->
     <div class="hero-buttons">
       <!-- <button >Book A Demo</button> -->
@@ -356,11 +361,11 @@ marquee {
       <div class="about-text">
         <br>
 
-        <p>Welcome to <strong>StayChat AI</strong>, your perfect destination for luxury and comfort. Located in the heart of Goa, we combine modern elegance with warm hospitality to make your stay unforgettable.</p>
+        <!-- <p>Welcome to <strong>StayChat AI</strong>, your perfect destination for luxury and comfort. Located in the heart of Goa, we combine modern elegance with warm hospitality to make your stay unforgettable.</p>
 
-        <p>Founded in 2015, StayChat AI has become a favorite for travelers who value style and comfort. Whether you're here for business or leisure, our team is dedicated to providing exceptional service.</p>
+        <p>Founded in 2015, StayChat AI has become a favorite for travelers who value style and comfort. Whether you're here for business or leisure, our team is dedicated to providing exceptional service.</p> -->
 
-        <h3>Our Facilities</h3>
+        <!-- <h3>Our Facilities</h3>
         <ul>
           <li>Free High-Speed Wi-Fi</li>
           <li>Swimming Pool & Spa</li>
@@ -368,7 +373,7 @@ marquee {
           <li>Gym & Fitness Center</li>
           <li>Conference Room</li>
           <li>Airport Pickup & Drop</li>
-        </ul>
+        </ul> -->
       </div>
 
       <div class="about-image">

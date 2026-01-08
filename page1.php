@@ -12,7 +12,7 @@ include "navbar.php";
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background: #f8f9fc;
+    background: #6B5B95;
 }
 
 .container {

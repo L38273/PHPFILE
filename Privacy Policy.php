@@ -16,7 +16,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #f4f7fb;
+  background: #6B5B95;
   font-family: "Inter", Arial, sans-serif;
   color: #222;
    padding-top: 100px;
@@ -158,16 +158,18 @@ html, body {
     font-size: 15px;
   }
 }
-
-
+.navbar {
+ 
+   background: #8E7CC3;
+}
   </style>
 </head>
-<body background-color: #0d0d0d>
+  <body background-color:#6B5B95>
    <nav class="navbar">
     <div class="nav-container">
       <div class="logo">
        
-         <img src="main3.png"  alt="StayChat" style="width: 150px"> 
+         <img src="main4.png"  alt="StayChat" style="width: 150px;filter: brightness(5.3);"> 
            
       </div>
       <button class="hamburger" id="menuBtn" >☰</button>

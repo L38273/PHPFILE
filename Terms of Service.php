@@ -10,12 +10,14 @@
     /* General Body */
     .navbar {
   position: fixed; 
+  background: #8E7CC3;
 }
+
 body {
   font-family: 'Arial', sans-serif;
   line-height: 1.6;
   color: #333;
-  background-color: #f9f9f9;
+  background-color: #6B5B95;
   margin: 0;
   padding: 0;
   padding-top: 150px;
@@ -135,12 +137,12 @@ a:hover {
 
   </style>
 </head>
-<body style="background-color: #0d0d0d">
+  <body style="background-color:#6B5B95">
    <nav class="navbar">
     <div class="nav-container">
       <div class="logo">
         
-          <img src="main3.png"  alt="StayChat" style="width: 150px"> 
+          <img src="main4.png"  alt="StayChat" style="width: 150px;filter: brightness(5.3);"> 
         </div>
       <button class="hamburger" id="menuBtn">☰</button>
       <div class="nav-links" id="navMenu">

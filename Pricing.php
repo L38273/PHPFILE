@@ -7,7 +7,6 @@ include"navbar.php";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>StayChat - Hotel Website</title>
-    <!-- <link rel="stylesheet" href="sty1.css"> -->
      <style>
         /* ===== Reset & Base Styles ===== */
 * {
@@ -20,7 +19,7 @@ body {
   font-family: "Poppins", Arial, sans-serif;
   color: #222;
   /* background-color: #f8f9fa; */
-  background-color:#0d0d0d;
+  background-color:#6B5B95;
   line-height: 1.6;
 }
 
@@ -50,12 +49,12 @@ body {
   padding: 80px 50px;
   text-align: center;
   /* background-color: #f1fdf5; */
-  background-color: #0d0d0d;
+  background-color: #6B5B95;
 }
 
 .pricing-section h1 {
   font-size: 2.2rem;
-  color: #006b3c;
+  color: #ffffff;
   margin-bottom: 40px;
 }
 
@@ -115,8 +114,8 @@ body {
 
 
      </style>
-</head>
-<body>
+</head >
+<body style="background-color: #6B5B95">
        <!-- pricing -->
 <section  id="Pricing" class="pricing-section">
     <h1>Choose Your Pricing Plan</h1>

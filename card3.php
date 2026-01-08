@@ -54,7 +54,7 @@ include"navbar.php";
 
         body {
     font-family: Arial, sans-serif;
-    background: #ffffff;
+    background: #6B5B95;
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;

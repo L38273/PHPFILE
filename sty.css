@@ -26,7 +26,8 @@
 .navbar {
   width: 100%;
   /* background: #fff; */
-  background: green;
+  /* background: green; */
+   background: #8E7CC3;
   box-shadow: 0 3px 8px rgba(0,0,0,0.1);
   position: sticky;
   top: 0;
@@ -95,7 +96,8 @@
     top: 70px;
     right: -300px;
     width: 200px;
-    background:green;
+     background: #6B5B95;
+    /* background:green; */
     /* background: green; */
     flex-direction: column;
     gap: 20px;
@@ -113,17 +115,12 @@
 
     /* --- Hero Section --- */
     header.hero {
-      /* background: powderblue; */
-      background: #0d0d0d;
+        background:#6B5B95;
       padding: 10px 10%;
       text-align: center;
-      
-
     }
 
-    /* header.hero-1{
-
-    } */
+    
     header.hero h1 {
       font-size: 32px;
       margin-bottom: 10px;

@@ -54,7 +54,7 @@ h1:last-of-type {
 }
 </style>
 </head>
-<body background-color: #0d0d0d>
+<body style="background-color: #6B5B95">
 <div class="main-content">
     <h1>Thank you!</h1>
     <h1>You're all set to experience the Staychat AI Demo</h1>

@@ -108,7 +108,7 @@ include"navbar.php";
 </style>
 
 </head>
-<body style="background-color: #0d0d0d">
+<body style="background-color: #6B5B95">
 
 <div class="integration-box">
 

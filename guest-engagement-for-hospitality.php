@@ -8,8 +8,10 @@
     <title>StayChat - Hotel Website</title>
     <link rel="stylesheet" href="sty.css">
     <style>
+.navbar {
 
-
+   background: #8E7CC3 ;
+}
 /* ===== Hover Lift (Premium Feel) ===== */
 .service-section-yellow:hover,
 .service-section-pink:hover,
@@ -40,7 +42,7 @@
 body {
   font-family: "Poppins", sans-serif;
   margin: 0;
-  background: #0d0d0d !important;
+  background: #6B5B95 !important;
   color: #ffffff;
 }
 html, body {
@@ -50,7 +52,7 @@ html, body {
 .container-large {
   width: 100%;
   padding: 50px 0%;
-  background-color: #0d0d0d;
+  background-color: #6B5B95;
   
 }
 
@@ -199,9 +201,9 @@ html, body {
     /* ================= FOOTER ================= */
 .footer {
   /* background: #111; */
-   background: #0d0d0d;
+   background: #6B5B95;
   color: #ccc;
-  padding: 40px 20px;
+  padding: 10px 10px;
   margin-top: 1px;
 
 }
@@ -238,13 +240,13 @@ html, body {
 }
 
 .footer-column h4 {
-  color: #fff;
+  color: #0d0d0d;
   margin-bottom: 12px;
 }
 
 .footer-column a {
   display: block;
-  color: #00c4ff;
+  color:  #ffffffff;
   text-decoration: none;
   margin-bottom: 8px;
   transition: 0.3s ease;
@@ -291,18 +293,18 @@ html, body {
 }
   </style>
 </head>
-<body style="background-color: #0d0d0d !important">
-
+<!-- <body style="background-color: #0d0d0d !important"> -->
+<body background-color:#6B5B95 !important>
   <nav class="navbar">
     <div class="nav-container">
       <div class="logo">
-         <img src="main3.png"  alt="StayChat" style="width: 150px">    
+         <img src="main4.png"  alt="StayChat" style="width: 150px;filter: brightness(5.3)">    
       </div>
       <button class="hamburger" id="menuBtn" >☰</button>
       <div class="nav-links" id="navMenu">
-        <a href="inde.php#home">Home</a>
-        <a href="inde.php#Pricing">Pricing</a>
-        <a href="inde.php#about">About</a>
+        <a href="index.php#home">Home</a>
+        <a href="pricing.php#Pricing">Pricing</a>
+        <a href="index.php#about">About</a>
         <a href="Contact.php#contact">Contact</a>
         <a href="page1.php#Demo" class="btn">Book A Demo</a>
       </div>
@@ -316,7 +318,7 @@ html, body {
   <div class="container-large">
   <div data-w-id="f309e3b4-8ecc-6d34-1c4a-bb533ebd16bb" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="all-feature-content">
     <div class="all-feature-headline">
-      <img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66010485d3e18f518b4e995b_Vector.svg" loading="lazy" alt="vector icon" class="headline-icon">
+      <!-- <img src="https://cdn.prod.website-files.com/66010485d3e18f518b4e989b/66010485d3e18f518b4e995b_Vector.svg" loading="lazy" alt="vector icon" class="headline-icon"> -->
       <div class="text-size-tiny text-color-black-dark">Our Feature</div></div>
   <h2 class="heading-style-h2">Communicate. Automate. Delight. Simplify.<br></h2>
   <p class="text-size-medium">Save your team time by automatically communicating with your guests throughout their stay. &nbsp;Delight guests with quick &amp; direct responses.<br></p>
@@ -418,7 +420,7 @@ function showDetails() {
  <div class="footer-column">
         <h4>Integrations</h4>
         <a href="ecard1.php#">WhatsApp</a>
-         <a href="#eca.php#">Pmc</a>
+         <!-- <a href="#eca.php#">Pmc</a> -->
         <a href="#pms.php#">PMS</a>
         <a href="#">Channel manager</a>
       </div>

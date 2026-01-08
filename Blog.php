@@ -6,13 +6,13 @@ include"navbar.php";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>StayChat - Hotel Website</title>\
+    <title>StayChat - Hotel Website</title>
     <style>
         .blog-section {
     padding: 50px;
     /* background: #f7f7f7; */
     text-align: center;
-    background-color: #0d0d0d;
+    background-color: #6B5B95;
 }
 
 .blog-section h2 {
@@ -79,7 +79,8 @@ include"navbar.php";
     </style>
 
 </head>
-<body style="background-color: #0d0d0d">
+<!-- <body style="background-color: #0d0d0d"> -->
+     <body background-color:#6B5B95 >
    <section class="blog-section">
     <h2>Our Latest Travel Blogs</h2>
 
